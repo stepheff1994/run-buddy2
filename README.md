@@ -1,1 +1,1 @@
-# run-buddy2
+# Welcome to Class!
